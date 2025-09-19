@@ -24,12 +24,10 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 ---
 
 ### 📂 Featured Projects
-- 🔹 **Postman API Tests** — Example API collection with scripts and assertions → [repo](https://github.com/natmaleclachowska/postman-api-tests)
-- 🔹 **Manual Test Cases** — Sample test scenarios and checklists for a demo e‑commerce app → [repo](https://github.com/natmaleclachowska/manual-test-cases)
-- 🔹 **Jira Bug Reports** — Sample defect reports and a lightweight workflow → [repo](https://github.com/natmaleclachowska/jira-bug-reports)
-- 🔹 **QA Tools & Utilities** — Handy links and small utilities for testers → [repo](https://github.com/natmaleclachowska/qa-tools)
-
-> Tip: If a repo doesn’t exist yet, create it and keep the same names to avoid editing links.
+- **Postman API Tests** — Example API collection with scripts and assertions → [repo](https://github.com/natmaleclachowska/postman-api-tests)
+- **Manual Test Cases** — Sample test scenarios and checklists for a demo e‑commerce app → [repo](https://github.com/natmaleclachowska/manual-test-cases)
+- **Jira Bug Reports** — Sample defect reports and a lightweight workflow → [repo](https://github.com/natmaleclachowska/jira-bug-reports)
+- **QA Tools & Utilities** — Handy links and small utilities for testers → [repo](https://github.com/natmaleclachowska/qa-tools)
 
 ---
 
