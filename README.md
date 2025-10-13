@@ -10,23 +10,23 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 **Hard skills** 
 
 Test engineering & QA fundamentals
-- **Test Strategy & Design:** Test cases/scenarios, Test plans, UAT coordination
-- **Defect Management:** Root cause analysis, Bug reporting (Jira workflow)
-- **Manual Testing:** Exploratory testing, Regression, Functional testing
+- **Test strategy & design:** Test cases/scenarios, Test plans, UAT coordination
+- **Defect management:** Root cause analysis, Bug reporting (Jira workflow)
+- **Manual testing:** Exploratory testing, Regression, Functional testing
 - **Tools:** TestRail, BrowserStack, DevTools, ShareX, PicPick
 
 Automation & Scripting focus
-- **API Testing:** Postman (REST, Collection Runner, Monitors, Assertions)
-- **Data Validation:** SQL (Basic querying for data integrity and validation)
-- **Version Control:** Git/GitLab (Basic commands for branching/merging)
+- **API testing:** Postman (REST, Collection Runner, Monitors, Assertions)
+- **Data validation:** SQL (Basic querying for data integrity and validation)
+- **Version control:** Git/GitLab (Basic commands for branching/merging)
 
 Unique analytical edge
-- **Web Analytics Data Testing:** Validation of data tracking (e.g. e-commerce, user events, A/B testing, videotracking)
-- **Statistical Analysis:** Applying quality metrics/KPIs and data-driven reporting
-- **Documentation & Process:** Creating SOPs, Quality reports, Process improvement
+- **Web analytics data testing:** Validation of data tracking (e.g. e-commerce, user events, A/B testing, videotracking)
+- **Statistical analysis:** Applying quality metrics/KPIs and data-driven reporting
+- **Documentation & process:** Creating SOPs, Quality reports, Process improvement
 
 AI, Automation & future QA:
-- **AI & Prompt engineering:** Practical application of LLMs (Gemini, ChatGPT) for QA tasks (e.g., test case generation, defect summarization, code analysis).
+- **AI & prompt engineering:** Practical application of LLMs (Gemini, ChatGPT) for QA tasks (e.g., test case generation, defect summarization, code analysis).
 - **Workflow automation:** Experience with tools like n8n for integrating and automating processes (e.g., automated reporting, data synchronization).
 
 Ecosystem & Collaboration
