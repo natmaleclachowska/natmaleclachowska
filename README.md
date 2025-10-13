@@ -5,13 +5,13 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 **Hard skills**
-- **Testing & QA:** Test design, Manual testing, UAT, TestRail, Zephyr
-- **API Testing:** Postman (REST, Runner, Monitor), Swagger / OpenAPI
+- **Testing & QA:** Test design, Manual testing, UAT, TestRail
+- **API Testing:** Postman (REST, Runner, Monitor)
 - **Tools & Platforms:** Jira, Confluence, Git/GitLab, BrowserStack, DevTools, Linux, Agile & Scrum
-- **Databases:** SQL (queries, data validation)
+- **Databases:** SQL 
 - **Documentation & Process:** Creating procedures, checklists and reports; process improvement; project/team coordination
 
 **Soft skills**
@@ -23,7 +23,7 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 - **Postman API Tests** — Example API collection with scripts and assertions → [repo](https://github.com/natmaleclachowska/postman-api-tests)
 - **Manual Test Cases** — Sample test scenarios and checklists for a demo e‑commerce app → [repo](https://github.com/natmaleclachowska/manual-test-cases)
 - **Jira Bug Reports** — Sample defect reports and a lightweight workflow → [repo](https://github.com/natmaleclachowska/jira-bug-reports)
@@ -31,7 +31,7 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 ---
 
-### 📜 Certifications
+### Certifications
 [![ISTQB Foundation Level](https://img.shields.io/badge/ISTQB-Foundation%20Level-blue)](#)
 [![Scrum Master](https://img.shields.io/badge/Scrum-Master-green)](#)
 [![QA Course - testerzy.pl](https://img.shields.io/badge/Course-Testerzy.pl-orange)](#)
@@ -40,13 +40,13 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 - **Playwright** and **Cypress** for UI test automation
 - Advanced **SQL** for data validation
 - **AI & Prompt Engineering** applied to QA workflows
 
 ---
 
-### 🌐 Let’s Connect
+### Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/nataliamaleclachowska/
 - **GitHub:**  https://github.com/natmaleclachowska
