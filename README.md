@@ -49,4 +49,3 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 ### Let’s Connect
 - **LinkedIn:** https://www.linkedin.com/in/nataliamaleclachowska/
-- **GitHub:**  https://github.com/natmaleclachowska
