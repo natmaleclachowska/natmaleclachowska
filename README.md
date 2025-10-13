@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Natalia Malec-Lachowska
 
-### About Me
+### About me
 I’m a **QA Engineer** with a strong analytical and project background, transitioning into software testing after several years of close collaboration with IT, UX and business teams. I focus on **manual and API testing** and I’m expanding into **test automation**. I value accuracy, logical thinking and detail orientation, and I’m driven by continuous improvement and knowledge sharing.
 
 ---
@@ -23,7 +23,7 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 ---
 
-### Featured Projects
+### Featured projects
 - **Postman API Tests** — Example API collection with scripts and assertions → [repo](https://github.com/natmaleclachowska/postman-api-tests)
 - **Manual Test Cases** — Sample test scenarios and checklists for a demo e‑commerce app → [repo](https://github.com/natmaleclachowska/manual-test-cases)
 - **Jira Bug Reports** — Sample defect reports and a lightweight workflow → [repo](https://github.com/natmaleclachowska/jira-bug-reports)
@@ -40,7 +40,7 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 ---
 
-### Currently Learning
+### Currently learning
 - **Playwright** and **Cypress** for UI test automation
 - Advanced **SQL** for data validation
 - **AI & Prompt Engineering** applied to QA workflows
