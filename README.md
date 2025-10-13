@@ -16,7 +16,7 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 **Soft skills**
 - Problem solving & analytical mindset
-- Responsibility, discipline and ownership
+- Responsibility, discipline & ownership
 - Focus & attention to detail
 - Clear communication & collaboration
 - Mentoring & knowledge sharing
