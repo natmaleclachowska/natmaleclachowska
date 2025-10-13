@@ -9,18 +9,18 @@ I’m a **QA Engineer** with a strong analytical and project background, transit
 
 **Hard skills** 
 
-Test Engineering & QA Fundamentals:
+Test engineering & QA fundamentals:
 - **Test Strategy & Design:** Test cases/scenarios, Test plans, UAT coordination
 - **Defect Management:** Root cause analysis, Bug reporting (Jira workflow)
 - **Manual Testing:** Exploratory testing, Regression, Functional testing
 - **Tools:** TestRail, BrowserStack, DevTools, ShareX, PicPick
 
-Automation & Scripting Focus:
+Automation & Scripting focus:
 - **API Testing:** Postman (REST, Collection Runner, Monitors, Assertions)
 - **Data Validation:** SQL (Basic querying for data integrity and validation)
 - **Version Control:** Git/GitLab (Basic commands for branching/merging)
 
-Unique Analytical Edge:
+Unique analytical edge:
 - **Web Analytics Data Testing:** Validation of data tracking (e.g. e-commerce, user events, A/B testing, videotracking)
 - **Statistical Analysis:** Applying quality metrics/KPIs and data-driven reporting
 - **Documentation & Process:** Creating SOPs, Quality reports, Process improvement
