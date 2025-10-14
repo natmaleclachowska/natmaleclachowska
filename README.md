@@ -46,10 +46,10 @@ Ecosystem & Collaboration
 ---
 
 ### Projects examples
-- **Postman API tests** — Example API collection with scripts and assertions → [repo](https://github.com/natmaleclachowska/postman-api-tests)
-- **Manual test cases** — Sample test scenarios and checklists for a demo e‑commerce app → [repo](https://github.com/natmaleclachowska/manual-test-cases)
-- **Jira bug reports** — Sample defect reports and a lightweight workflow → [repo](https://github.com/natmaleclachowska/jira-bug-reports)
-- **QA tools & utilities** — Handy links and small utilities for testers → [repo](https://github.com/natmaleclachowska/qa-tools)
+- **Postman API tests** — Example API collection with scripts and assertions → [Repositories](https://github.com/natmaleclachowska/postman-api-tests)
+- **Manual test cases** — Sample test scenarios and checklists for a demo e‑commerce app → [Repositories](https://github.com/natmaleclachowska/manual-test-cases)
+- **Jira bug reports** — Sample defect reports and a lightweight workflow → [Repositories](https://github.com/natmaleclachowska/jira-bug-reports)
+- **QA tools & utilities** — Handy links and small utilities for testers → [Repositories](https://github.com/natmaleclachowska/qa-tools)
 
 ---
 
