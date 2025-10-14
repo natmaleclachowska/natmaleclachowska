@@ -62,7 +62,7 @@ Ecosystem & Collaboration
 ---
 
 ### Currently learning
-- **Playwright** and **Python** for UI test automation
+- **Python** and **Playwright** for UI test automation
 
 ---
 
