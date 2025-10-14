@@ -54,11 +54,9 @@ Ecosystem & Collaboration
 ---
 
 ### Certifications
-[![ISTQB Foundation Level](https://img.shields.io/badge/ISTQB-Foundation%20Level-blue)](#)
-[![Scrum Master](https://img.shields.io/badge/Scrum-Master-green)](#)
-[![QA Course - testerzy.pl](https://img.shields.io/badge/Course-Testerzy.pl-orange)](#)
+[![Course ISTQB 4.0 testerzy.pl](https://img.shields.io/badge/Course%20ISTQB%204.0-testerzy.pl-blue)](#)
+[![Course and Practice Profession Tester testerzy.pl](https://img.shields.io/badge/Course%20and%20Practice%20Profession%20Tester-testerzy.pl-blue)](#)
 
-> Replace `(#)` with direct links to your certificates (PDF or LinkedIn).
 
 ---
 
