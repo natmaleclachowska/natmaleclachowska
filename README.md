@@ -54,9 +54,8 @@ Ecosystem & Collaboration
 ---
 
 ### Certifications
-[![Course ISTQB 4.0 testerzy.pl](https://img.shields.io/badge/Course%20ISTQB%204.0-testerzy.pl-blue)](#)
 [![Course and Practice Profession Tester testerzy.pl](https://img.shields.io/badge/Course%20and%20Practice%20Profession%20Tester-testerzy.pl-blue)](#)
-
+[![Course ISTQB 4.0 testerzy.pl](https://img.shields.io/badge/Course%20ISTQB%204.0-testerzy.pl-blue)](#)
 
 ---
 
