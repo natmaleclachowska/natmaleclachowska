@@ -63,9 +63,7 @@ Ecosystem & Collaboration
 ---
 
 ### Currently learning
-- **Playwright** and **Cypress** for UI test automation
-- Advanced **SQL** for data validation
-- **AI & Prompt Engineering** applied to QA workflows
+- **Playwright** and **Python** for UI test automation
 
 ---
 
