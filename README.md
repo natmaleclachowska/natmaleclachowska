@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Natalia Malec-Lachowska
 
 ### About me
-I’m a **QA Engineer** with a strong analytical and project background, transitioning into software testing after several years of close collaboration with IT, UX and business teams. I focus on **manual and API testing** and I’m expanding into **test automation**. I value accuracy, logical thinking and detail orientation, and I’m driven by continuous improvement and knowledge sharing.
+I’m a **QA Specialist** with a strong analytical and project background, transitioning into software testing after several years of close collaboration with IT, UX and business teams. I focus on **manual and API testing** and I’m expanding into **test automation**. I value accuracy, logical thinking and detail orientation, and I’m driven by continuous improvement and knowledge sharing.
 
 ---
 
